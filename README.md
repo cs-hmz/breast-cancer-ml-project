@@ -19,7 +19,9 @@ Data → Preprocessing → Model Training → API → Streamlit → Deployment
 
 ## Screenshots
 ### Streamlit App
-![Streamlit Screenshot](images/streamlit.png)
+![Streamlit Screenshot](images/streamlit1.png)
+![Streamlit Screenshot](images/streamlit2.png)
 
 ### FastAPI Swagger UI
-![FastAPI Screenshot](images/fastapi.png)
+![FastAPI Screenshot](images/fastapi1.png)
+![FastAPI Screenshot](images/fastapi2.png)
